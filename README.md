@@ -1,16 +1,13 @@
-# peliculas
+# Palabras en ingles
+Aplicacion realizada con Flutter 
 
-A new Flutter project.
+### Pantalla Vertical
 
-## Getting Started
+<img src="https://github.com/user-attachments/assets/3ffebd95-0fca-4f3a-8e53-1ebb3ac4f008" width="150" />
+<img src="https://github.com/user-attachments/assets/25a1520f-ed64-4562-b569-34e84c90ab27" width="150" />
 
-This project is a starting point for a Flutter application.
+### Pantalla Horizontal
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/fd0d9a1b-4170-458d-b1e9-89817b7602e1" width="250" />
+<img src="https://github.com/user-attachments/assets/31ab89f4-cfa7-4154-a11c-daa7bf9122e2" width="250" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
